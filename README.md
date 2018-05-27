@@ -19,4 +19,4 @@ Após o boleto ser pago o status da compra é alterado automaticamente no painel
 Link para compra em nossa loja MageUp: [Itaú Shopline Magento 2 MageUp](https://www.mageup.com/modulo-para-magento2-itaushopline-boleto.html)
 
 ## Documentação
-Linkd para a documentação do módulo: [Acesse aqui](https://www.mageup.com/media/attachment/file/g/u/guia_usuario_mo_dulo_-_itau_shopline_boleto_magento_2_v_102.pdf)
+Link para a documentação do módulo: [Acesse aqui](https://www.mageup.com/media/attachment/file/g/u/guia_usuario_mo_dulo_-_itau_shopline_boleto_magento_2_v_102.pdf)
