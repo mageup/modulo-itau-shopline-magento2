@@ -5,7 +5,7 @@ Quando um cliente efetua uma compra utilizando o móduloTrezo Itaú Shopline Bol
 
 Após o boleto ser pago o status da compra é alterado automaticamente no painel administrativo da loja.
 
-## As principais características do módulo
+## Principais características do módulo
 * Pagamento de boletos sem a necessidade de sair da loja.
 * Geração de segunda via do boleto.
 * Notificação por email do pagamento do boleto.
