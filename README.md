@@ -5,15 +5,18 @@ Quando um cliente efetua uma compra utilizando o móduloTrezo Itaú Shopline Bol
 
 Após o boleto ser pago o status da compra é alterado automaticamente no painel administrativo da loja.
 
-## As principais características do módulo:
+## As principais características do módulo
 * Pagamento de boletos sem a necessidade de sair da loja.
 * Geração de segunda via do boleto.
 * Notificação por email do pagamento do boleto.
 * Verificação via Cron do pagamento do boleto. 
 
-## Compatível com as versões:
+## Compatível com as versões
 * 2.1.x
 * 2.2.x 
 
 ## Instalação
 Link para compra em nossa loja MageUp: [Itaú Shopline Magento 2 MageUp](https://www.mageup.com/modulo-para-magento2-itaushopline-boleto.html)
+
+## Documentação
+Linkd para a documentação do módulo: [Acesse aqui])https://www.mageup.com/media/attachment/file/g/u/guia_usuario_mo_dulo_-_itau_shopline_boleto_magento_2_v_102.pdf)
